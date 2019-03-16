@@ -30,4 +30,12 @@ end
 pod install
 ```
 
+推荐直接用 
+```
+pod update
+```
+
 安装好后，用xcode 打开 `xx.xcworkspace`，而不是之前的`xx.xcodeproj` 。
+
+## 参考
+* http://www.code4app.com/article/cocoapods-install-usage
