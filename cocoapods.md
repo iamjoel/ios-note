@@ -19,7 +19,7 @@ https://gems.ruby-china.com
 
 ```
 platform :ios, "8.0"
-
+use_frameworks!
 target "用该依赖的目录文件夹" do
 pod 'SnapKit', '~> 0.15.0'
 end

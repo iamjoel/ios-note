@@ -53,8 +53,21 @@
 * 其他
   * [Sagit](https://github.com/cyq1162/Sagit) 射手座。
 
+## Cocoa Touch 框架
+Cocoa区别于Cocoa Touch， 两者都包含OC运行时的两个核心框架。Cocoa包含Foundation和AppKit框架，可用于开发Mac OS X系统的应用程序。Cocoa Touch包含Foundation和UIKit框架，可用于开发iPhone OS 系统的应用程序。
+
+Foundation 是框架的基础，和界面无关，其中包含了大量常用的API；Cocoa Touch 是基础的UI类库。
+
+## 工具库
+* 发送 HTTP 请求的工具库
+  * [AFNetworking](https://github.com/AFNetworking/AFNetworking)
+  * [Alamofire](https://github.com/Alamofire/Alamofire)
+* [SwiftyJSON](https://github.com/SwiftyJSON/SwiftyJSON) 目的是让服务器返回的 JSON 不会让 APP 蹦掉。 [SwiftyJSON介绍](http://tangplin.github.io/swiftyjson/)
+
 ## 包管理工具
 * [CocoaPods](cocoapods.md)
+* [Carthage](https://github.com/carthage/carthage) 简单，去中心化的方式管理依赖。
+* [Swift Package Manager](https://swift.org/package-manager/) Swift 官方出品。
 
 ## 资源
 * [Awesome iOs](https://github.com/vsouza/awesome-ios) [中文版](https://github.com/jobbole/awesome-ios-cn)
