@@ -1,8 +1,7 @@
 # iOS 开发笔记
 ## 语言
-* swift
+* [Swift](swift)
 * Objective-C
-
 
 ## 布局技术
 > 界面布局应该是以 AutoLayout 为主，以传统的 frame 布局为辅助。
@@ -70,8 +69,10 @@ Foundation 是框架的基础，和界面无关，其中包含了大量常用的
 * [Swift Package Manager](https://swift.org/package-manager/) Swift 官方出品。
 
 ## 资源
-* [Awesome iOs](https://github.com/vsouza/awesome-ios) [中文版](https://github.com/jobbole/awesome-ios-cn)
+* [Awesome iOS](https://github.com/vsouza/awesome-ios) [中文版](https://github.com/jobbole/awesome-ios-cn)
 * [Awesome Swift](https://github.com/matteocrippa/awesome-swift)
 * [Swift 学习指引](https://www.jianshu.com/p/2978d4c81513) 中文版。
 * [小波说雨燕](http://www.xiaoboswift.com/) Swift和iOS轻松学。视频教程。
 * [awesome-ios-ui](https://github.com/cjwirth/awesome-ios-ui)
+* Swift
+  * [Swift 教程](http://www.swift51.com/swift.html) Swift官方教程中文版。 目前到 4.0 教程。
