@@ -11,7 +11,6 @@
 * Frame 布局。
 * Size Class。用来适配不同的屏幕大小。粗糙版的 Media Query。
 
-
 更多:
 * [iOS 开发中，搭建界面的一些争论](https://zhuanlan.zhihu.com/p/20783322)
 
@@ -55,7 +54,11 @@
   * [Sagit](https://github.com/cyq1162/Sagit) 射手座。
 
 ## 包管理工具
-* [CocoaPods](https://cocoapods.org/)
+* [CocoaPods](cocoapods.md)
 
 ## 资源
 * [Awesome iOs](https://github.com/vsouza/awesome-ios) [中文版](https://github.com/jobbole/awesome-ios-cn)
+* [Awesome Swift](https://github.com/matteocrippa/awesome-swift)
+* [Swift 学习指引](https://www.jianshu.com/p/2978d4c81513) 中文版。
+* [小波说雨燕](http://www.xiaoboswift.com/) Swift和iOS轻松学。视频教程。
+* [awesome-ios-ui](https://github.com/cjwirth/awesome-ios-ui)
