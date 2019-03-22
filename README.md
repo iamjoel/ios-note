@@ -68,6 +68,9 @@ Foundation 是框架的基础，和界面无关，其中包含了大量常用的
 * [Carthage](https://github.com/carthage/carthage) 简单，去中心化的方式管理依赖。
 * [Swift Package Manager](https://swift.org/package-manager/) Swift 官方出品。
 
+## Xcode
+下载特别慢，下载地址形如: https://download.developer.apple.com/Developer_Tools/Xcode_10.1/Xcode_10.1.xip
+
 ## 资源
 * [Awesome iOS](https://github.com/vsouza/awesome-ios) [中文版](https://github.com/jobbole/awesome-ios-cn)
 * [Awesome Swift](https://github.com/matteocrippa/awesome-swift)

@@ -7,6 +7,8 @@
 * UIWindow
 * UILable
 
+## @IBoutlet 和 @IBAction
+
 ## 在 UIControllerView 中使用 xib 中的控件
 1. 点击编辑器右上角的第二个按钮（两个圈圈），将视图和代码分两边显示。
 1. 把鼠标放在控件上面按住Ctrl键并拖动鼠标到ViewController.swift文件的空处放手后将出现以下画面后输入NAME。
