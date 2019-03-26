@@ -7,8 +7,11 @@ Swift 4.0 于2017年秋季发布。
 * [函数](demo/Function.play)
 * 常用数据类型
   * [字符串](demo/String.playground)
-* 运算符
-* 流程控制
+  * 数组
+  * 元组
+* [运算符](demo/Operator.playground)
+* [流程控制](demo/Condition-flow.playground)
+* 可选链
 * 错误处理
 * 结构体
 * 类
