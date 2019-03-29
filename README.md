@@ -71,6 +71,10 @@ Foundation 是框架的基础，和界面无关，其中包含了大量常用的
 ## Xcode
 下载特别慢，下载地址形如: https://download.developer.apple.com/Developer_Tools/Xcode_10.1/Xcode_10.1.xip
 
+### 显示多个文件
+菜单打开: View -> Show Tab Bar。
+
+
 ## 资源
 * [Awesome iOS](https://github.com/vsouza/awesome-ios) [中文版](https://github.com/jobbole/awesome-ios-cn)
 * [Awesome Swift](https://github.com/matteocrippa/awesome-swift)
