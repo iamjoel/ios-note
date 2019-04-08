@@ -74,6 +74,9 @@ Foundation 是框架的基础，和界面无关，其中包含了大量常用的
 ### 显示多个文件
 菜单打开: View -> Show Tab Bar。
 
+### Xcode 问题
+发现获取别人的代码，明明文件系统中有那个文件，但项目目录树中没有显示，此时，在 xcode 中，需要右击文件所在文件夹，点击 `Add Files to ...`
+
 
 ## 资源
 * [Awesome iOS](https://github.com/vsouza/awesome-ios) [中文版](https://github.com/jobbole/awesome-ios-cn)
